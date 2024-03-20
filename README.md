@@ -1,7 +1,7 @@
 # ML---Skill-Assessment-01
-## Developed By : T.Danush Reddy
+## Developed By : T.DANUSH REDDY
 ## Register Number : 212223040029
-## Department : cse
+## Department : CSE
 ## Objective 1 : 
 To Create a scatter plot between cylinder vs Co2Emission (green color).
 ## Code : 
