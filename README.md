@@ -1,13 +1,13 @@
 # ML---Skill-Assessment-01
-## Developed By : Abbu Rehan
-## Register Number : 212223240165
-## Department : AIML
+## Developed By : T.Danush Reddy
+## Register Number : 212223040029
+## Department : cse
 ## Objective 1 : 
 To Create a scatter plot between cylinder vs Co2Emission (green color).
 ## Code : 
 ```
-Developed by : SD.ABBU REHAN
-Register Number : 212223240165
+Developed by : T.DANUSH REDDY
+Register Number : 212223040029
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,7 +26,7 @@ plt.show()
 Using scatter plot compare data cylinder vs Co2Emission and Enginesize Vs Co2Emission using different colors.
 ## Code :
 ```
-Developed by : SD.ABBU REHAN
+Developed by : T.DANUSH REDDY
 Register Number : 212223240165
 
 import pandas as pd
@@ -48,8 +48,8 @@ plt.show()
 Using scatter plot compare data cylinder vs Co2Emission and Enginesize Vs Co2Emission and FuelConsumption_comb Co2Emission using different colors.
 ## Code :
 ```
-Developed by : SD.ABBU REHAN
-Register Number : 212223240165
+Developed by : T.DANUSH REDDY
+Register Number : 212223040029
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -71,8 +71,8 @@ plt.show()
 Train your model with independent variable as cylinder and dependent variable as Co2Emission.
 ## Code :
 ```
-Developed by : SD.ABBU REHAN
-Register Number : 212223240165
+Developed by : T.DANUSH REDDY
+Register Number : 212223040029
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -94,8 +94,8 @@ model_cylinder.fit(X_train_cylinder, y_train_cylinder)
 Train another model with independent variable as FuelConsumption_comb and dependent variable as Co2Emission.
 ## Code :
 ```
-Developed by : SD.ABBU REHAN
-Register Number : 212223240165
+Developed by : T.DANUSH REDDY
+Register Number : 212223040029
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -117,8 +117,8 @@ model_fuel.fit(X_train_fuel, y_train_fuel)
 Train your model on different train test ratio and train the models and note down their accuracies.
 ## Code :
 ```
-Developed by : SD.ABBU REHAN
-Register Number : 212223240165
+Developed by : T.DANUSHREDDY
+Register Number : 212223040029
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
